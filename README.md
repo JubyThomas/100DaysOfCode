@@ -6,7 +6,9 @@ This will contain details of things I learn and dabble in. I aim to be consisten
 
 
 - D1
-
+  - Docker
+  - https://linuxhint.com/dockerfile_expose_ports/
+  - https://www.youtube.com/watch?v=d-PPOS-VsC8
 
 
 - D2
