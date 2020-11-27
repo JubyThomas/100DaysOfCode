@@ -11,6 +11,8 @@ This will contain details of things I learn and dabble in. I aim to be consisten
   - https://www.youtube.com/watch?v=d-PPOS-VsC8
 
 
-- D2
+- D1  (28-11-2020) 
+compiled vs interpreted language
+https://www.youtube.com/watch?v=I1f45REi3k4
 
-- D3
+- 
