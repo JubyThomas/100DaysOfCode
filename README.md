@@ -16,6 +16,9 @@ This will contain details of things I learn and dabble in. I aim to be consisten
     -https://www.youtube.com/watch?v=I1f45REi3k4
   -  data types in JS
   - IIFE
+  - Hoisting
+  -Lexical Scoping
+  -use strict
   -
     
 
